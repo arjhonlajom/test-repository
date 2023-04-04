@@ -8,3 +8,5 @@ MORNING TO-DO LIST!
 6. Put coffee drip to a cup and add ice.
 7. Sit on the desk, open laptop, and start work.
 8. check emails
+9. join meetings
+10. update solution architecture diagram
