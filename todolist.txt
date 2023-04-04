@@ -13,6 +13,6 @@ MORNING TO-DO LIST!
 
 Afternoon to do list:
 1. Lunch
-2. Another cup of coffee
-3. Check teams and emails
+2. Check teams and emails
+3. Another cup of coffee
 4. Continue with backlogs from morning.
