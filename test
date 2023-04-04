@@ -1,0 +1,72 @@
+[33mcommit 5c9770fb099a2788800ac9ed7abfe66c3002849c[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 34d1b09 525bb87
+Author: aj <50439018+arjhonlajom@users.noreply.github.com>
+Date:   Tue Apr 4 13:49:56 2023 +0800
+
+    Merge pull request #2 from arjhonlajom/test
+    
+    updating prefix on line 14
+
+[33mcommit 525bb87392c964d68afc0000a7685ad0453fc25a[m[33m ([m[1;31morigin/test[m[33m)[m
+Merge: 6f1e92d 34d1b09
+Author: aj <50439018+arjhonlajom@users.noreply.github.com>
+Date:   Tue Apr 4 13:49:47 2023 +0800
+
+    Merge branch 'main' into test
+
+[33mcommit 34d1b09242388970ed0bfdcee38f7fb49ee6b759[m
+Author: arjhonlajom <arjhonlajom@gmail.com>
+Date:   Tue Apr 4 13:46:17 2023 +0800
+
+    adding suffix on line 14
+
+[33mcommit 6f1e92d8712c7565074330d543080c5b42c5f20b[m[33m ([m[1;32mtest[m[33m)[m
+Author: arjhonlajom <arjhonlajom@gmail.com>
+Date:   Tue Apr 4 13:42:56 2023 +0800
+
+    updating prefix on line 14
+
+[33mcommit 15be01caec346ca86969f04d2d3c9e14f27b4276[m
+Merge: b839618 5c95639
+Author: aj <50439018+arjhonlajom@users.noreply.github.com>
+Date:   Tue Apr 4 13:41:37 2023 +0800
+
+    Merge pull request #1 from arjhonlajom/test
+    
+    merging test commits to main
+
+[33mcommit 5c956393ae083549f5e9ba65715c03ca38c6f234[m
+Author: arjhonlajom <arjhonlajom@gmail.com>
+Date:   Tue Apr 4 13:38:01 2023 +0800
+
+    updating orders of afternoon list
+
+[33mcommit 1e14e6c349b1745d193acac09ccbc7ae145c3e60[m
+Author: arjhonlajom <arjhonlajom@gmail.com>
+Date:   Tue Apr 4 13:29:09 2023 +0800
+
+    added new afternoon to do list
+
+[33mcommit b839618f2ee0458daa5caf73a5dc339b76b4555a[m
+Author: arjhonlajom <arjhonlajom@gmail.com>
+Date:   Tue Apr 4 12:01:11 2023 +0800
+
+    test
+
+[33mcommit c98086fd321c48e9b7b9756054e506cf5f75e232[m
+Author: arjhonlajom <arjhonlajom@gmail.com>
+Date:   Tue Apr 4 11:56:50 2023 +0800
+
+    updating a lot files
+
+[33mcommit 6235c842f77e0e06038fbbc210985c551e12a1c7[m
+Author: arjhonlajom <arjhonlajom@gmail.com>
+Date:   Tue Apr 4 11:42:52 2023 +0800
+
+    added new todo items
+
+[33mcommit 9afae2e26a10ff1ebe2584c27efa61386e2b3bee[m
+Author: arjhonlajom <arjhonlajom@gmail.com>
+Date:   Tue Apr 4 11:39:58 2023 +0800
+
+    addnew file
